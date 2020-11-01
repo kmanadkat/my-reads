@@ -42,7 +42,7 @@ https://myreadskrupesh.netlify.app/
 
 ### 📖 Project Approach & Screenshots
 
-![Approach](https://github.com/kmanadkat/udacity-react-nd/blob/my-reads/project.jpg)
+![Approach](https://github.com/kmanadkat/my-reads/project.jpg)
 
 
 
@@ -53,7 +53,7 @@ https://myreadskrupesh.netlify.app/
 
 #### Home Page Route : `/`
 
-![Home Page](https://github.com/kmanadkat/udacity-react-nd/blob/my-reads/home.png)
+![Home Page](https://github.com/kmanadkat/my-reads/home.png)
 
 
 <hr />
@@ -62,7 +62,7 @@ https://myreadskrupesh.netlify.app/
 
 #### Search Route : `/search`
 
-![Search page](https://github.com/kmanadkat/udacity-react-nd/blob/my-reads/search.png)
+![Search page](https://github.com/kmanadkat/my-reads/search.png)
 
 
 
@@ -72,4 +72,4 @@ https://myreadskrupesh.netlify.app/
 
 #### Book Details Route : `/book/:bookId`
 
-![Book details route](https://github.com/kmanadkat/udacity-react-nd/blob/my-reads/book.png)
+![Book details route](https://github.com/kmanadkat/my-reads/book.png)
