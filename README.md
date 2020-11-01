@@ -1,5 +1,4 @@
-
-## ![Logo](https://github.com/kmanadkat/udacity-react-nd/blob/my-reads/build/favicon-32x32.png) My Reads - React Nanodegree First Project
+## ![Logo](./public/favicon-16x16.png) My Reads - React Nanodegree First Project
 
 This is a mini project for managing user's book shelf. User can categories each book in following shelf categories at `/` route
 
@@ -9,12 +8,17 @@ This is a mini project for managing user's book shelf. User can categories each 
 
 Book can be removed or added from `/search` route. The shelf states of these books is persistent and stored in a backend provided by udacity. 
 
-**Project Note** :
+**Project Note** : 
 
 1. Books which are present in shelf has **<span style="color: green">Green Action Menu</span>** button (rounded buttons above every book) & books which are not part of shelf has **<span style="color: blue">Blue Action button</span>**
 2. Search Page tries to bring books through API after every letter is entered in input field.
 3. Search Page shows no books when search field is empty or book for requested search string doesnot exists.
 
+#### Routes
+
+1. `/` Home Page containing Shelfs
+2. `/search` Search Page
+3. `/book/:bookId` Book Details Page
 
 
 ### ⚙️ Installation & Setup
